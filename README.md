@@ -1,6 +1,6 @@
-                                    ![](https://github.com/bananaTiko/bananaTiko/assets/111482265/1b913002-6dad-43ff-a39f-184bcf671eb9) ![](https://github.com/bananaTiko/bananaTiko/assets/111482265/57c3dd49-293f-4441-b774-a847b37b12b3)
-- 🌱 I’m currently teaching myself `Haxe and lua` 
 
+- 🌱 I’m currently teaching myself `Haxe and lua` 
+                                    ![](https://github.com/bananaTiko/bananaTiko/assets/111482265/1b913002-6dad-43ff-a39f-184bcf671eb9) ![](https://github.com/bananaTiko/bananaTiko/assets/111482265/57c3dd49-293f-4441-b774-a847b37b12b3)
 
 - 📫 How to reach me: Banana_Tiko2 (on discord)
 - ⚡ Fun fact: 
