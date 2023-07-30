@@ -1,11 +1,11 @@
 
-- 🌱 I’m currently teaching myself ![](https://github.com/bananaTiko/bananaTiko/assets/111482265/1b913002-6dad-43ff-a39f-184bcf671eb9) ![](https://github.com/bananaTiko/bananaTiko/assets/111482265/57c3dd49-293f-4441-b774-a847b37b12b3)
+- 🌱 I’m currently teaching myself `Haxe and Lua`
 - 📫 How to reach me: Banana_Tiko2 (on discord)
-- ⚡ Fun fact: 
-- 🔭 I’m currently working on FNF (related) projects
 
+-💻 I’m currently working on a FNF engine called `Psych Engine Forever`
+-💻 I’m currently working on a FNF mods 
 - 😄 Pronouns: He/Him
-
-
+  Im only Haxe and HaxeFlixel coder for Friday Night Funkin': SB Engine. Here's my current status: 
+<img src="https://img.shields.io/badge/Windows 11-FFA500?logo=windows" /> <img src="https://img.shields.io/badge/haxe-logo.svg?logo=haxe" /> 
 ![bananaTiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaTiko&layout=compact&show_icons=true&theme=dark)
