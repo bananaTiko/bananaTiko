@@ -6,6 +6,6 @@
 -💻 I’m currently working on a FNF mods 
 - 😄 Pronouns: He/Him
   Im only Haxe and HaxeFlixel coder for Friday Night Funkin': SB Engine. Here's my current status: 
-<img src="https://img.shields.io/badge/Windows 11-FFA500?logo=windows" /> <img src="https://img.shields.io/badge/haxe-logo.svg?logo=haxe" /> 
+<img src="https://img.shields.io/badge/Windows 11-FFA500?logo=windows11" /> <img src="https://img.shields.io/badge/haxe-logo.svg?logo=haxe" /> 
 ![bananaTiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaTiko&layout=compact&show_icons=true&theme=dark)
