@@ -1,9 +1,9 @@
-- 🌱 I’m currently teaching myself `Haxe and lua`
-![](https://github.com/bananaTiko/bananaTiko/assets/111482265/1b3ab5a6-d773-42a8-a220-27e5dcbd6240)
+- 🌱 I’m currently teaching myself `Haxe and lua` ![](https://github.com/bananaTiko/bananaTiko/assets/111482265/57c3dd49-293f-4441-b774-a847b37b12b3)
 
 - 📫 How to reach me: Banana_Tiko2 (on discord)
 - ⚡ Fun fact: 
-- 🔭 I’m currently working on FNF (related) projects which will are 🤐
+- 🔭 I’m currently working on FNF (related) projects
+
 - 😄 Pronouns: He/Him
 
 
