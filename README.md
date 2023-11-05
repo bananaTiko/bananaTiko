@@ -4,6 +4,9 @@
 - 💻 I’m currently working on a FNF engine called `Psych Engine Forever 2.0` with A `0.6.3 VERSIONS IN THE WORKS`
 - 💻 I’m currently working on some mods for games like deltarune and Fnf
 - 😄 Pronouns: He/Him/His
-## current status
+## Current Status
 ![bananaTiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaTiko&layout=compact&show_icons=true&theme=dark)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
