@@ -1,5 +1,5 @@
--  My Skills
--  [![My Skills](https://skillicons.dev/icons?i=haxe,html,haxeflixel,lua)](https://skillicons.dev)
+-  My Skills Haxe, Haaxeflixel, and lua
+-  [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,lua&theme=dark)](https://skillicons.dev)
 - 📫 How to reach me: Banana_Tiko2 (on discord) 
 - 💻 I’m currently working on a FNF engine called `Psych Engine Forever 2.0` with A `0.6.3 VERSIONS IN THE WORKS`
 - 💻 I’m currently working on some mods for games like deltarune and Fnf
