@@ -1,4 +1,4 @@
--  My Skills Haxe, Haaxeflixel, and lua
+-  My Skills Haxe, Haxeflixel, and lua
   [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,lua&theme=dark)](https://skillicons.dev)
 - 📫 How to reach me: Banana_Tiko2 (on discord)
   [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev)
@@ -14,6 +14,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bananaTiko&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-### 😂 Random Meme
-<img src='https://randommeme-four.vercel.app/' style="height: 400px;"/>
