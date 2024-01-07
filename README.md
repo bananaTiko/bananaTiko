@@ -1,7 +1,7 @@
 -  My Skills Haxe, Haxeflixel, and lua
-  [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,lua&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,lua&theme=dark)]()
 - 📫 How to reach me: Banana_Tiko2 (on discord)
-  [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/990121240062730250)
 - 💻 I’m currently working on a FNF engine called `Psych Engine Forever 2.0`
 - 💻 I’m currently working on some mods for games like deltarune and Fnf
 - 😄 Pronouns: He/Him/His
