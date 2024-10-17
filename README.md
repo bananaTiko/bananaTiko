@@ -13,8 +13,8 @@
 - 😄 Pronouns: He/Him/His or They/them
 
 ## What Theme are you using??
-  ![Termux Logo](https://github.com/user-attachments/assets/6a8d94a8-4078-467c-9bd9-0b79998c6c68#gh-dark-mode-only)
-  ![Termux Logo](https://github.com/user-attachments/assets/6a8d94a8-4078-467c-9bd9-0b79998c6c68#gh-light-mode-only)
+  ![Dark Mode](https://github.com/user-attachments/assets/6a8d94a8-4078-467c-9bd9-0b79998c6c68#gh-dark-mode-only)
+  ![Light Mode](https://github.com/user-attachments/assets/8f2fb0ff-da39-45c0-b4f0-816586f9398b#gh-light-mode-only)
 
 # 📊 GitHub stats
 ![bananaTiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=dark)
@@ -22,3 +22,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bananaTiko&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+
