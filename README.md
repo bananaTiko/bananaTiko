@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=lua&theme=dark)](https://www.lua.org/) 
   
 ## How to reach me:
-  [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/990121240062730250) - Discord banana_tiko2 or BT2
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/990121240062730250) - Discord banana_tiko2 or BT2
 
 ## What I'm working on   
 - 💻 I’m currently working on a FNF engine
