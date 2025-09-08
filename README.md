@@ -30,17 +30,15 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 
 ## How to Reach Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=discord&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=discord&theme=light">
-  <img alt="Discord" src="https://skillicons.dev/icons?i=discord&theme=light">
-</picture> [Discord](https://discordapp.com/users/990121240062730250)  
+<a href="https://discordapp.com/users/990121240062730250">
+  <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" width="40" height="40" id="gh-dark-mode-only">
+  <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" width="40" height="40" id="gh-light-mode-only">
+</a> Discord
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=twitter&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=twitter&theme=light">
-  <img alt="Twitter" src="https://skillicons.dev/icons?i=twitter&theme=light">
-</picture> [Twitter/X](https://x.com/Banana_tiko_2?t=JW_K5UjBZ-TDDPMlh01C9A&s=09)
+<a href="https://x.com/Banana_tiko_2?t=JW_K5UjBZ-TDDPMlh01C9A&s=09">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40" height="40" id="gh-dark-mode-only">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter" width="40" height="40" id="gh-light-mode-only">
+</a> Twitter/X
 
 ---
 
