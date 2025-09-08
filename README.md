@@ -8,10 +8,11 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 
 ## GitHub Stats
 
-![bananaTiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com?user=bananaTiko&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaTiko&layout=compact&theme=dark)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bananaTiko&theme=darkhub&margin-w=10&margin-h=10&no-frame=true)
+[![bananaTiko's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
+[![bananaTiko's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
+
+![bananaTiko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bananaTiko&theme=dark&hide_border=true)  
+![bananaTiko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaTiko&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
