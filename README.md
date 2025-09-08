@@ -8,14 +8,16 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 
 ## GitHub Stats
 
-![bananaTiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=dark)
+![bananaTiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=dark)  
+![GitHub Streak](https://streak-stats.demolab.com?user=bananaTiko&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaTiko&layout=compact&theme=dark)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bananaTiko&theme=darkhub&margin-w=10&margin-h=10&no-frame=true)
 
 ---
 
 ## How to Reach Me
 
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/990121240062730250)  
-Discord: banana_tiko2 / BT2
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/990121240062730250)
 
 ---
 
