@@ -38,8 +38,9 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 
 ## Links
 
-- [GitHub Profile](https://github.com/bananaTiko)  
-- [Untitled Psych Fork](https://github.com/Untitled-Psych-Fork) - My main FNF engine project
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/bananaTiko) GitHub Profile  
+
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/Untitled-Psych-Fork) Untitled Psych Fork - My main FNF engine project github page
 
 ---
 
