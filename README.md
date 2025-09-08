@@ -34,11 +34,14 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 
 ## Pinned Projects
 
+<!-- FNF-UntitledPsychFork -->
 [![FNF-UntitledPsychFork - Dark](https://github-readme-stats.vercel.app/api/pin/?username=bananaTiko&repo=FNF-UntitledPsychFork&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/bananaTiko/FNF-UntitledPsychFork)  
 [![FNF-UntitledPsychFork - Light](https://github-readme-stats.vercel.app/api/pin/?username=bananaTiko&repo=FNF-UntitledPsychFork&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/bananaTiko/FNF-UntitledPsychFork)  
 
+<!-- openfl-UPF -->
 [![openfl-UPF - Dark](https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=openfl-UPF&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/Untitled-Psych-Fork/openfl-UPF)  
 [![openfl-UPF - Light](https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=openfl-UPF&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/Untitled-Psych-Fork/openfl-UPF)  
 
+<!-- lime-UPF -->
 [![lime-UPF - Dark](https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=lime-UPF&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/Untitled-Psych-Fork/lime-UPF)  
 [![lime-UPF - Light](https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=lime-UPF&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/Untitled-Psych-Fork/lime-UPF)
