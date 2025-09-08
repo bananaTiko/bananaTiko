@@ -12,7 +12,10 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 [![bananaTiko's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
 
 [![bananaTiko's Top Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaTiko&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
-[![bananaTiko's Top Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaTiko&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![bananaTiko's Top Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaTiko&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
+
+[![bananaTiko's Streak - Dark](https://streak-stats.demolab.com?user=bananaTiko&theme=dark&hide_border=true#gh-dark-mode-only)](https://streak-stats.demolab.com?user=bananaTiko&theme=dark&hide_border=true)  
+[![bananaTiko's Streak - Light](https://streak-stats.demolab.com?user=bananaTiko&theme=default&hide_border=true#gh-light-mode-only)](https://streak-stats.demolab.com?user=bananaTiko&theme=default&hide_border=true)
 
 ---
 
@@ -31,6 +34,11 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 
 ## Pinned Projects
 
-- [bananaTiko/FNF-UntitledPsychFork](https://github.com/bananaTiko/FNF-UntitledPsychFork) - Fork of Psych Engine for Friday Night Funkin'
-- [Untitled-Psych-Fork/openfl-UPF](https://github.com/Untitled-Psych-Fork/openfl-UPF) - Fork of OpenFL for my usage
-- [Untitled-Psych-Fork/lime-UPF](https://github.com/Untitled-Psych-Fork/lime-UPF) - Fork of Lime for my usage
+[![FNF-UntitledPsychFork - Dark](https://github-readme-stats.vercel.app/api/pin/?username=bananaTiko&repo=FNF-UntitledPsychFork&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/bananaTiko/FNF-UntitledPsychFork)  
+[![FNF-UntitledPsychFork - Light](https://github-readme-stats.vercel.app/api/pin/?username=bananaTiko&repo=FNF-UntitledPsychFork&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/bananaTiko/FNF-UntitledPsychFork)  
+
+[![openfl-UPF - Dark](https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=openfl-UPF&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/Untitled-Psych-Fork/openfl-UPF)  
+[![openfl-UPF - Light](https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=openfl-UPF&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/Untitled-Psych-Fork/openfl-UPF)  
+
+[![lime-UPF - Dark](https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=lime-UPF&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/Untitled-Psych-Fork/lime-UPF)  
+[![lime-UPF - Light](https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=lime-UPF&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/Untitled-Psych-Fork/lime-UPF)
