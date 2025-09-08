@@ -1,20 +1,33 @@
-## What I Code in
-[![My Skills](https://skillicons.dev/icons?i=haxe&theme=dark)](Haxe.org)
-[![My Skills](https://skillicons.dev/icons?i=haxeflixel&theme=dark)](https://haxeflixel.com/)
-[![My Skills](https://skillicons.dev/icons?i=lua&theme=dark)](https://www.lua.org/) 
-## How to reach me:
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/990121240062730250) - Discord banana_tiko2 or BT2
-## What I'm working on   
-- 💻 I’m currently working on a FNF engine
-## My pronouns
-- 😄 Pronouns: He/Him/His or They/them
-## What Theme are you using??
-  ![Dark Mode](https://github.com/user-attachments/assets/6a8d94a8-4078-467c-9bd9-0b79998c6c68#gh-dark-mode-only)
-  ![Light Mode](https://github.com/user-attachments/assets/8f2fb0ff-da39-45c0-b4f0-816586f9398b#gh-light-mode-only)
-# 📊 GitHub stats
+# bananaTiko
+
+bananaTiko  
+Pronouns: he/him or they/them  
+Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin' (FNF) engine. Passionate about game development and open-source projects. Always open to learning and collaborating!
+
+---
+
+## GitHub Stats
+
 ![bananaTiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaTiko&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaTiko&layout=compact&show_icons=true&theme=dark)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bananaTiko&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+---
 
+## How to Reach Me
+
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/990121240062730250)  
+Discord: banana_tiko2 / BT2
+
+---
+
+## Links
+
+- [GitHub Profile](https://github.com/bananaTiko)
+- [Untitled Psych Fork](https://github.com/Untitled-Psych-Fork) - My main FNF engine project
+
+---
+
+## Pinned Projects
+
+- [bananaTiko/FNF-UntitledPsychFork](https://github.com/bananaTiko/FNF-UntitledPsychFork) - My custom Friday Night Funkin' engine
+- [Untitled-Psych-Fork/openfl-UPF](https://github.com/Untitled-Psych-Fork/openfl-UPF) - OpenFL tools and resources
+- [Untitled-Psych-Fork/lime-UPF](https://github.com/Untitled-Psych-Fork/lime-UPF) - Lime extensions for FNF modding
