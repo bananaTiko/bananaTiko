@@ -30,15 +30,9 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 
 ## How to Reach Me
 
-<a href="https://discordapp.com/users/990121240062730250">
-  <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" width="40" height="40" id="gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" width="40" height="40" id="gh-light-mode-only">
-</a> Discord
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/990121240062730250) Discord  
 
-<a href="https://x.com/Banana_tiko_2?t=JW_K5UjBZ-TDDPMlh01C9A&s=09">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40" height="40" id="gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter" width="40" height="40" id="gh-light-mode-only">
-</a> Twitter/X
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/Banana_tiko_2?t=JW_K5UjBZ-TDDPMlh01C9A&s=09) Twitter/X
 
 ---
 
