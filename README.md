@@ -38,21 +38,11 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 
 ## Links
 
-## Links
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark#gh-dark-mode-only)](https://github.com/bananaTiko)  
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light#gh-light-mode-only)](https://github.com/bananaTiko) GitHub Profile
 
-<a href="https://github.com/bananaTiko" id="gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40">
-</a>
-<a href="https://github.com/bananaTiko" id="gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40">
-</a> GitHub Profile
-
-<a href="https://github.com/Untitled-Psych-Fork" id="gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40">
-</a>
-<a href="https://github.com/Untitled-Psych-Fork" id="gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40">
-</a> Untitled Psych Fork - My main FNF engine project
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark#gh-dark-mode-only)](https://github.com/Untitled-Psych-Fork)  
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light#gh-light-mode-only)](https://github.com/Untitled-Psych-Fork) Untitled Psych Fork
 
 ---
 
