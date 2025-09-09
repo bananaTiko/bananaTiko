@@ -1,6 +1,5 @@
 # bananaTiko
 
-bananaTiko  
 Pronouns: he/him or they/them  
 Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin' (FNF) engine. Passionate about game development and open-source projects. Always open to learning and collaborating!
 
