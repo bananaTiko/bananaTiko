@@ -47,19 +47,19 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 ## Pinned Projects
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bananaTiko&repo=FNF-UntitledPsychFork&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bananaTiko&repo=FNF-UntitledPsychFork&theme=default&hide_border=true">
-  <img alt="FNF-UntitledPsychFork" src="https://github-readme-stats.vercel.app/api/pin/?username=bananaTiko&repo=FNF-UntitledPsychFork&theme=default&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bananaTiko&repo=FNF-UntitledPsychFork&theme=dark&hide_border=true&show_owner=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bananaTiko&repo=FNF-UntitledPsychFork&theme=default&hide_border=true&show_owner=false">
+  <img alt="FNF-UntitledPsychFork" src="https://github-readme-stats.vercel.app/api/pin/?username=bananaTiko&repo=FNF-UntitledPsychFork&theme=default&hide_border=true&show_owner=false">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=openfl-UPF&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=openfl-UPF&theme=default&hide_border=true">
-  <img alt="openfl-UPF" src="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=openfl-UPF&theme=default&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=openfl-UPF&theme=dark&hide_border=true&show_owner=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=openfl-UPF&theme=default&hide_border=true&show_owner=true">
+  <img alt="openfl-UPF" src="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=openfl-UPF&theme=default&hide_border=true&show_owner=true">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=lime-UPF&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=lime-UPF&theme=default&hide_border=true">
-  <img alt="lime-UPF" src="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=lime-UPF&theme=default&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=lime-UPF&theme=dark&hide_border=true&show_owner=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=lime-UPF&theme=default&hide_border=true&show_owner=true">
+  <img alt="lime-UPF" src="https://github-readme-stats.vercel.app/api/pin/?username=Untitled-Psych-Fork&repo=lime-UPF&theme=default&hide_border=true&show_owner=true">
 </picture>
