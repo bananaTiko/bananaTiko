@@ -37,19 +37,10 @@ Haxe, HaxeFlixel, and Lua developer. Currently working on a Friday Night Funkin'
 ---
 
 ## Links
-<a href="https://github.com/bananaTiko">
-  <picture>
-    <source srcset="https://skillicons.dev/icons?i=github&theme=dark" media="(prefers-color-scheme: dark)">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" />
-  </picture>
-</a> Github Profile
 
-<a href="https://github.com/Untitled-Psych-Fork">
-  <picture>
-    <source srcset="https://skillicons.dev/icons?i=github&theme=dark" media="(prefers-color-scheme: dark)">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" />
-  </picture>
-</a> Untitled Psych Fork
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/bananaTiko) GitHub Profile  
+
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/Untitled-Psych-Fork) Untitled Psych Fork
 
 ---
 
